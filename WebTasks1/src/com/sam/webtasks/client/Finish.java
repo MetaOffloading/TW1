@@ -9,7 +9,6 @@ import com.google.gwt.user.client.ui.TextArea;
 import com.google.gwt.user.client.ui.VerticalPanel;
 import com.sam.webtasks.basictools.Names;
 import com.sam.webtasks.basictools.PHP;
-import com.sam.webtasks.iotask2.IOtask2BlockContext;
 
 public class Finish {
 	public static void Run() {
